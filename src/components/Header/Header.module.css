@@ -1,0 +1,33 @@
+.content {
+    height: 120px;
+    background-color: #61dafb;
+    display: flex;
+    flex-direction: row;
+    padding: 0 20px;
+    border-radius: 15px;
+    margin: 20px;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+.navigation {
+    padding: 50px;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}
+
+.navItem {
+    margin-right: 30px;
+    text-decoration: none;
+    color: white;
+}
+
+.navItem:hover {
+    transition: 1s;
+    color: black;
+}

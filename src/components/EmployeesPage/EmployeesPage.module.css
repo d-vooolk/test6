@@ -1,0 +1,54 @@
+.content {
+    margin: 0 20px 20px 20px;
+    padding: 20px;
+    background-color: #61dafb;
+    border-radius: 15px;
+}
+
+.content h1 {
+    text-align: center;
+    color: white;
+}
+
+li {
+    list-style-type: none;
+    margin: 10px 0 0 0;
+}
+
+button {
+    margin: 0 0 0 10px;
+    background-color: #282c34;
+}
+
+li button {
+    background-color: inherit;
+    border: none;
+    font-size: 13px;
+    margin: 0 0 0 30px;
+    color: darkred;
+}
+
+input {
+    margin-bottom: 20px;
+    font-size: 20px;
+    border-radius: 8px;
+    outline: none;
+    padding: 0 5px 0;
+    height: 28px;
+    border: none;
+}
+
+.addButton {
+    color: white;
+    border-radius: 8px;
+    font-size: 20px;
+    border: none;
+    height: 28px;
+    transition: 0.5s;
+}
+
+.addButton:hover {
+    color: black;
+    background-color: white;
+    transition: 0.5s;
+}
