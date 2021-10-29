@@ -1,1 +1,1 @@
-test.waiwi.ru
+https://test.waiwi.ru
